@@ -46,4 +46,7 @@ public class Login extends BaseTest {
 		return new Home();
 		}
 	
+	public void newLogin() {
+		
+	}
 }
